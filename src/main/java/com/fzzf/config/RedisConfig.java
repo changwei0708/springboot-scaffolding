@@ -1,4 +1,4 @@
-package com.fzzf.demo.config;
+package com.fzzf.config;
 
 import org.springframework.cache.annotation.CachingConfigurerSupport;
 import org.springframework.cache.annotation.EnableCaching;

@@ -1,10 +1,10 @@
-package com.fzzf.demo;
+package com.fzzf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class WebApplicationTests {
 
 	@Test
 	void contextLoads() {

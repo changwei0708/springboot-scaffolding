@@ -1,7 +1,7 @@
-package com.fzzf.demo.controller;
+package com.fzzf.web;
 
 
-import com.fzzf.demo.config.MyProperties;
+import com.fzzf.config.MyProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

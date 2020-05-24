@@ -1,4 +1,4 @@
-package com.fzzf.demo.config;
+package com.fzzf.config;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;

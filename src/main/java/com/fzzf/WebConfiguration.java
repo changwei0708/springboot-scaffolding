@@ -1,4 +1,4 @@
-package com.fzzf.demo.filter;
+package com.fzzf;
 
 
 import org.apache.catalina.filters.RemoteIpFilter;
